@@ -1,0 +1,43 @@
+body{
+	background-image: url('goo.jpg');
+	background-size: cover;
+    background-repeat: no-repeat;
+	height: 1200px;
+	width: 95%;	
+	height: 40%;
+
+}
+p {
+position: bottom;
+
+
+}
+
+#page{ margin: 20px; }
+
+
+#nav{
+	width: 65%;
+	display: inline-block;
+	text-align: right;
+	float: right;
+}
+	#nav ul{}
+		#nav ul li{
+			display: inline-block;
+		}
+			#nav ul li a{
+				padding: 14px;
+				background: transparent;
+				color: black;
+			}
+			#nav ul li a:hover{
+				box-shadow: 0px 1px 1px white;
+				color: black;
+				background-color: white;
+			}
+
+img {
+	top: right;
+
+}
